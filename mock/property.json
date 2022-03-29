@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "NAME"
+  },
+  {
+    "_id": "CALORIES"
+  },
+  {
+    "_id": "TIME"
+  },
+  {
+    "_id": "DESCRIPTION"
+  },
+  {
+    "_id": "RATING"
+  },
+  {
+    "_id": "PRICE"
+  },
+  {
+    "_id": "TYPESECTION"
+  }
+]

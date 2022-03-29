@@ -1,0 +1,75 @@
+[
+  {
+    "slug": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Pizza"
+      },
+      {
+        "property": "TYPESECTION",
+        "value": "Classical Pizza"
+      }
+    ],
+    "image": [{
+      "url": "pizza.png",
+      "image": "SECTION_IMAGE"
+     }
+    ]
+  },
+  {
+    "slug": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Burger"
+      },
+      {
+        "property": "TYPESECTION",
+        "value": "Classic Cheeseburger"
+      }
+    ],
+    "image": [{
+      "url": "burgers.png",
+      "image": "SECTION_IMAGE"
+    }
+    ]
+  },
+  {
+    "slug": "sausage",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Sausage"
+      },
+      {
+        "property": "TYPESECTION",
+        "value": "Classical Sausage"
+      }
+    ],
+    "image": [
+      {
+        "url": "hotdog.png",
+        "image": "SECTION_IMAGE"
+     }
+    ]
+  },
+  {
+    "slug": "samosa",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Samosa"
+      },
+      {
+        "property": "TYPESECTION",
+        "value": "Classical Samosa"
+      }
+    ],
+    "image": [ {
+      "url": "taco.png",
+      "image": "SECTION_IMAGE"
+    }
+    ]
+  }
+]

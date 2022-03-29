@@ -1,0 +1,47 @@
+
+.restaurant_card{
+    background: #FFFFFF;
+    box-shadow: 0 20px 20px rgba(170, 170, 170, 0.05);
+    border-radius: 30px;
+    width:200px;
+    height:260px;
+    padding: 10px 15px;
+    box-sizing: border-box;
+}
+
+.restaurant_card .card_content{
+    width: 200px;
+}
+
+
+.card__wrapper a{
+    text-decoration: none;
+    color: #3D3D3D;
+}
+
+#first a{
+    text-decoration: none;
+    color: #3D3D3D;
+}
+
+#first{
+    margin:0;
+}
+.card__wrapper{
+    margin-left: 30px;
+}
+
+@media screen and (max-width: 374px){
+    .restaurant_card{
+        width:190px;
+        height:250px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 359px){
+    .restaurant_card{
+        height: 200px;
+        width: 180px;
+    }
+}
+

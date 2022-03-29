@@ -1,0 +1,108 @@
+.delivery {
+    display: flex;
+    flex: 0.3 1 134px;
+    flex-direction: column;
+    max-width: 370px;
+    width: 100%;
+    justify-content: center;
+}
+
+.delivery__header {
+    padding: 9px 22px 0;
+    font-family: "DM Sans Bold", serif;
+    letter-spacing: -0.03em;
+    font-size: 24px;
+    flex: 0 0 31px;
+    box-sizing: border-box;
+}
+
+.delivery__data__container {
+    padding: 1px 23px 0px 23px;
+    max-width: 400px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    flex: 0.4 0 94px;
+}
+
+.data__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 1px 11px 0px;
+}
+
+.item__description {
+    font-size: 15px;
+    font-family: "DM Sans",serif;
+    width: 211px;
+    letter-spacing: -0.01em;
+    line-height: 22px;
+}
+
+.change{
+    font-family: "Sk-Modernist",serif;
+    color: #FE554A;
+    font-size:14px;
+    letter-spacing: -0.01em;
+    text-decoration: none;
+    outline: none;
+}
+
+@media screen and (max-width: 360px){
+
+    .delivery__header {
+        padding: 0 23px 0;
+        font-size: 19px;
+        display: flex;
+        align-items: center;
+    }
+    .delivery__data__container {
+        padding: 0 25px 13px 26px;
+    }
+    .data__item {
+        padding: 0 1px 6px 0;
+    }
+    .change {
+        font-size: 13px;
+    }
+    .item__description {
+        font-size: 13px;
+        width: 190px;
+    }
+}
+
+@media screen and (min-width:768px){
+    .delivery {
+        flex: 0.3 0 135px;
+        justify-content: center;
+    }
+
+    .delivery {
+        align-items: center;
+        width: 100%;
+        max-width: 406px;
+    }
+
+    .delivery__header {
+        width: 100%;
+        max-width: 396px;
+        font-size: 28px;
+    }
+
+    .delivery__data__container {
+        max-width: 400px;
+        width: 100%;
+        padding:10px 23px 20px 26px;
+    }
+
+    .item__description {
+        font-size: 17px;
+    }
+
+    .change{
+        font-size:17px;
+    }
+
+}

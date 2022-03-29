@@ -1,0 +1,183 @@
+.img__item{
+    width:50px;
+    height:50px;
+    box-shadow: 0 5px 25px 0 #2A7AE30F;
+    border-radius: 10px;
+}
+
+.payment {
+    padding: 0px 18px 0 21px;
+    flex: 0.3 1 184px;
+    display: flex;
+    max-width: 370px;
+    flex-direction: column;
+    width: 100%;
+}
+
+.payment__header {
+    font-family: "DM Sans Bold", serif;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: -0.03em;
+    flex: 0.2 0 37px;
+    padding: 0 0 14px;
+}
+
+.payment__img__container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    flex: 0.1 0 76px;
+}
+
+.payment__img__container a{
+    outline: none;
+}
+
+.active {
+    filter: drop-shadow(0px 5px 25px rgba(42, 122, 227, 0.06));
+    border-radius: 10px;
+    border: 1px solid orange;
+    width: 60px;
+    height: 56px;
+}
+
+
+.img__item {
+    width: 50px;
+    height: 50px;
+    box-shadow: 0 5px 25px 0 #2A7AE30F;
+    border-radius: 10px;
+    background: #FFFFFF;
+}
+
+.item__wrap {
+    margin-left: 23px;
+    padding: 1px 4px 0;
+}
+
+.masterCard {
+    margin: 21px 17px;
+}
+
+.paypal {
+    margin: 22px 30px;
+}
+
+.stripe {
+    margin: 9px -2px;
+}
+
+.plus__img{
+    height:50px;
+}
+
+.pay__arrival {
+    background: #FFFFFF;
+    border-radius: 20px;
+    max-width: 327px;
+    height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    flex: 0.2 0 17px;
+}
+
+.pay__arrival__container{
+    padding: 12px 19px 19px;
+    display:flex;
+}
+
+
+.arrival__caption{
+    font-family: "DM Sans",serif;
+    font-size: 15px;
+    line-height: 23px;
+    letter-spacing: -0.01em;
+    margin-left:11px;
+}
+
+.radio__button input{
+    width:15px;
+    height: 15px;
+    border: 1px solid #1C1C1C;
+    color: #1C1C1C;
+    border-radius: 50%;
+}
+
+.pay__cash {
+    padding: 6px 6px 0;
+}
+
+.pay__cash__caption{
+    font-family: "DM Sans",serif;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: -0.01em;
+    color: #FE554A;
+}
+
+
+@media screen and (max-width: 360px){
+
+    .delivery__button {
+        padding: 42px 24px 0;
+        flex: 0.2 77px;
+    }
+
+    .item__wrap {
+        margin-left: 12px;
+    }
+
+    .img__item {
+        margin-left: 4px;
+    }
+
+    .payment {
+        padding: 0 24px 0 24px;
+    }
+
+    .payment__header {
+        line-height: 24px;
+        font-size:19px;
+    }
+
+    .pay__cash {
+        padding: 4px 6px 0;
+    }
+
+}
+
+
+@media screen and (min-width:768px){
+
+    .popup__content {
+        align-items: center;
+    }
+
+    .price__block {
+        max-width: 400px;
+        width: 100%;
+        padding: 3px 29px 2px;
+        flex: 0.1 0 100px;
+    }
+
+    .payment {
+        padding: 0px 24px 0 24px;
+        flex: 0.3 0 234px;
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .pay__arrival {
+        max-width: 360px;
+        flex: 0 0 17px;
+    }
+
+    .item__wrap{
+        margin-left:32px;
+    }
+
+    .payment__header {
+        font-size: 28px;
+    }
+}

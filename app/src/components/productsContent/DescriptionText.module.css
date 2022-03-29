@@ -1,0 +1,104 @@
+
+.name_descriptions {
+    color: #3D3D3D;
+    padding: 3px 21px 17px 37px;
+    font-family: "Sk-Modernist", serif;
+    line-height: 150%;
+    max-width: 373px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.more{
+    display: inline;
+}
+
+.second__p{
+    display: none;
+}
+
+.desc__active .more{
+    display: none;
+}
+
+.desc__active .less{
+    display: inline;
+}
+
+.desc__active .show__text{
+    display: inline;
+}
+.show__text{
+    display:none
+}
+.name_descriptions span {
+    font-size: 14px;
+    font-family: "Sk-Modernist", serif;
+    line-height: 21px;
+    padding: 0;
+    margin: 0;
+}
+
+.name_descriptions .more {
+    color: #FE554A;
+    font-size: 14px;
+    letter-spacing: 0.02em;;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.less{
+    color: #FE554A;
+    font-size: 14px;
+    letter-spacing: 0.02em;;
+    cursor:pointer;
+    text-decoration: underline;
+    display:none;
+}
+
+.desc__active br{
+    display:none;
+}
+
+@media screen and (max-width: 374px) {
+    .name_descriptions p {
+        font-size: 12px;
+    }
+
+    .name_descriptions {
+        padding: 0px 34px 15px 36px;
+        max-width: 353px;
+    }
+}
+
+@media screen and (max-width: 359px){
+    .name_descriptions {
+        padding: 0px 12px 15px;
+        max-width: 351px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .name_descriptions {
+        max-width: 475px;
+        padding: 0 0 6px;
+    }
+
+    .name_descriptions .more {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    .name_descriptions p {
+        font-size: 19px;
+        line-height: 32px;
+    }
+
+    .name_descriptions span {
+        font-size: 21px;
+        line-height: 29px;
+    }
+    .less{
+        font-size:22px;
+    }
+}

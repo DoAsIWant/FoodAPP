@@ -1,0 +1,1155 @@
+[
+  {
+    "slug": "pizza-peperoni",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Peperoni Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "700"
+      },
+      {
+        "property": "TIME",
+        "value": "10-15"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Faucibus purus in massa tempor nec feugiat nisl pretium."
+      },
+      {
+        "property": "RATING",
+        "value": "3.5"
+      },
+      {
+        "property": "PRICE",
+        "value": "15.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "peperoni.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "margarita-pizza",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Margarita Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "630"
+      },
+      {
+        "property": "TIME",
+        "value": "9-12"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Porttitor lacus luctus accumsan tortor posuere ac ut consequat semper. Diam phasellus vestibulum lorem sed risus ultricies tristique. "
+      },
+      {
+        "property": "RATING",
+        "value": "4.5"
+      },
+      {
+        "property": "PRICE",
+        "value": "12.50"
+      }
+    ],
+    "image": [
+      {
+        "url": "Classical.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "mushroom-pizza",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Mushroom Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "570"
+      },
+      {
+        "property": "TIME",
+        "value": "11"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Porttitor lacus luctus accumsan tortor posuere ac ut consequat semper. Diam phasellus vestibulum lorem sed risus ultricies tristique. "
+      },
+      {
+        "property": "RATING",
+        "value": "4"
+      },
+      {
+        "property": "PRICE",
+        "value": "14.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "MushroomPizza.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "hotchili-pizza",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "HotChili Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "600"
+      },
+      {
+        "property": "TIME",
+        "value": "11-15"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Velit ut tortor pretium viverra suspendisse potenti nullam ac. Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Fusce ut placerat orci nulla pellentesque dignissim"
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "10.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "hotChili.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "teriaki-pizza",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Teriaki Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "430"
+      },
+      {
+        "property": "TIME",
+        "value": "10-12"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Id leo in vitae turpis massa sed elementum. Odio ut enim blandit volutpat maecenas."
+      },
+      {
+        "property": "RATING",
+        "value": "4"
+      },
+      {
+        "property": "PRICE",
+        "value": "17.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "mexico.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "mexico-pizza",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Mexico Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "420"
+      },
+      {
+        "property": "TIME",
+        "value": "8-12"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Cursus in hac habitasse platea dictumst. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Ut tortor pretium viverra suspendisse potenti nullam."
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "20.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "mexico.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "vegeterian-pizza",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Vegeterian Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "300"
+      },
+      {
+        "property": "TIME",
+        "value": "7-10"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Morbi tincidunt augue interdum velit euismod in pellentesque. Risus feugiat in ante metus dictum at tempor. Euismod nisi porta lorem mollis."
+      },
+      {
+        "property": "RATING",
+        "value": "3.5"
+      },
+      {
+        "property": "PRICE",
+        "value": "10.50"
+      }
+    ],
+    "image": [
+      {
+        "url": "mexico.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "capritchoze-pizza",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Capritchoze Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "570"
+      },
+      {
+        "property": "TIME",
+        "value": "11"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Id leo in vitae turpis massa sed elementum. Odio ut enim blandit volutpat maecenas. Adipiscing bibendum est ultricies integer quis auctor elit. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. "
+      },
+      {
+        "property": "RATING",
+        "value": "4"
+      },
+      {
+        "property": "PRICE",
+        "value": "14.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "Capritchoze.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "child-pizza",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Child Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "570"
+      },
+      {
+        "property": "TIME",
+        "value": "5-8"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Feugiat vivamus at augue eget arcu dictum varius duis at. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Sed arcu non odio euismod lacinia at quis risus sed. At risus viverra adipiscing at in tellus integer. "
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "12.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "childPizza.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "sicilian-pizza",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Sicialian Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "510"
+      },
+      {
+        "property": "TIME",
+        "value": "10-15"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Lacus vel facilisis volutpat est velit egestas. Velit sed ullamcorper morbi tincidunt ornare massa. Commodo viverra maecenas accumsan lacus. A cras semper auctor neque vitae tempus quam pellentesque nec. Nisl nunc mi ipsum faucibus vitae aliquet."
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "15.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "mexico.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "child-pizza",
+    "section": "pizza",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Child Pizza"
+      },
+      {
+        "property": "CALORIES",
+        "value": "570"
+      },
+      {
+        "property": "TIME",
+        "value": "5-8"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": " Tincidunt nunc pulvinar sapien et ligula. Id interdum velit laoreet id donec ultrices tincidunt. Cursus euismod quis viverra nibh. Vitae tortor condimentum lacinia quis vel eros donec ac odio. "
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "16.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "childPizza.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "macdonalds-burger",
+    "section": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "MacDonalds Burger"
+      },
+      {
+        "property": "CALORIES",
+        "value": "330"
+      },
+      {
+        "property": "TIME",
+        "value": "5-10"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "property": "RATING",
+        "value": "4.5"
+      },
+      {
+        "property": "PRICE",
+        "value": "23.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "macdonaldsBurger.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "medium-cheezeburger",
+    "section": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Medium cheese burger"
+      },
+      {
+        "property": "CALORIES",
+        "value": "400"
+      },
+      {
+        "property": "TIME",
+        "value": "4-6"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Nascetur ridiculus mus mauris vitae ultricies leo. Facilisis volutpat est velit egestas dui. Ut tellus elementum sagittis vitae et leo duis ut diam. Sed vulputate odio ut enim blandit."
+      },
+      {
+        "property": "RATING",
+        "value": "4.5"
+      },
+      {
+        "property": "PRICE",
+        "value": "23.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "burger.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "classic-hamburger",
+    "section": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Classic Hamburger"
+      },
+      {
+        "property": "CALORIES",
+        "value": "200"
+      },
+      {
+        "property": "TIME",
+        "value": "3-5"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "property": "RATING",
+        "value": "4.5"
+      },
+      {
+        "property": "PRICE",
+        "value": "26.70"
+      }
+    ],
+    "image": [
+      {
+        "url": "hamburger.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "bigboys-cheezeburger",
+    "section": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Classic Hamburger"
+      },
+      {
+        "property": "CALORIES",
+        "value": "300"
+      },
+      {
+        "property": "TIME",
+        "value": "5-10"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Facilisis magna etiam tempor orci eu lobortis. Fermentum et sollicitudin ac orci phasellus. Lorem mollis aliquam ut porttitor. Ac turpis egestas integer eget. "
+      },
+      {
+        "property": "RATING",
+        "value": "4.5"
+      },
+      {
+        "property": "PRICE",
+        "value": "24.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "hamburger.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "bacon-burger",
+    "section": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Bacon Burger"
+      },
+      {
+        "property": "CALORIES",
+        "value": "500"
+      },
+      {
+        "property": "TIME",
+        "value": "7-12"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Gravida arcu ac tortor dignissim convallis aenean et tortor. Neque ornare aenean euismod elementum nisi. Montes nascetur ridiculus mus mauris. Faucibus purus in massa tempor nec feugiat nisl pretium fusce. Leo vel fringilla est ullamcorper eget. "
+      },
+      {
+        "property": "RATING",
+        "value": "4.5"
+      },
+      {
+        "property": "PRICE",
+        "value": "25.40"
+      }
+    ],
+    "image": [
+      {
+        "url": "baconBurger.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "new-burger",
+    "section": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "New Burger"
+      },
+      {
+        "property": "CALORIES",
+        "value": "370"
+      },
+      {
+        "property": "TIME",
+        "value": "9-14"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "In aliquam sem fringilla ut morbi tincidunt augue interdum. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo."
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "20.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "newBurger.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "chicken-burger",
+    "section": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Chicken Burger"
+      },
+      {
+        "property": "CALORIES",
+        "value": "300"
+      },
+      {
+        "property": "TIME",
+        "value": "3-5"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Est ullamcorper eget nulla facilisi etiam. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere ac."
+      },
+      {
+        "property": "RATING",
+        "value": "4"
+      },
+      {
+        "property": "PRICE",
+        "value": "19.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "chicken.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "crispy-chicken",
+    "section": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Crispy Chicken"
+      },
+      {
+        "property": "CALORIES",
+        "value": "400"
+      },
+      {
+        "property": "TIME",
+        "value": "4-7"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Ultrices tincidunt arcu non sodales neque. Urna porttitor rhoncus dolor purus. Velit euismod in pellentesque massa placerat duis ultricies lacus."
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "21.50"
+      }
+    ],
+    "image": [
+      {
+        "url": "Crispy-Chicken.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "double-chicken",
+    "section": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Double Chicken"
+      },
+      {
+        "property": "CALORIES",
+        "value": "5500"
+      },
+      {
+        "property": "TIME",
+        "value": "10"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "18.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "doubleChickenBurger.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "big-tasty",
+    "section": "burger",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "BigTasty Burger"
+      },
+      {
+        "property": "CALORIES",
+        "value": "550"
+      },
+      {
+        "property": "TIME",
+        "value": "7-9"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Nibh nisl condimentum id venenatis a.Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Sem viverra aliquet eget sit amet tellus cras. Enim sit amet venenatis urna cursus eget. Et pharetra pharetra massa massa ultricies mi quis hendrerit dolor. "
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "26.50"
+      }
+    ],
+    "image": [
+      {
+        "url": "doubleChickenBurger.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+
+  {
+    "slug": "classic-hotdog",
+    "section": "sausage",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Classic Hotdog"
+      },
+      {
+        "property": "CALORIES",
+        "value": "360"
+      },
+      {
+        "property": "TIME",
+        "value": "2-5"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Ac odio tempor orci dapibus. Sit amet justo donec enim diam vulputate. Iaculis eu non diam phasellus. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. Neque laoreet suspendisse interdum consectetur libero id. "
+      },
+      {
+        "property": "RATING",
+        "value": "4"
+      },
+      {
+        "property": "PRICE",
+        "value": "10.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "classicHotdog.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "keebab-hotdog",
+    "section": "sausage",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Classic Hotdog"
+      },
+      {
+        "property": "CALORIES",
+        "value": "430"
+      },
+      {
+        "property": "TIME",
+        "value": "3-7"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Sit amet aliquam id diam maecenas ultricies mi eget. Aliquam etiam erat velit scelerisque in. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Posuere morbi leo urna molestie at elementum eu facilisis. Mi bibendum neque egestas congue quisque egestas diam. Id interdum velit laoreet id donec. Velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Tincidunt nunc pulvinar sapien et ligula. "
+      },
+      {
+        "property": "RATING",
+        "value": "4.4"
+      },
+      {
+        "property": "PRICE",
+        "value": "12.50"
+      }
+    ],
+    "image": [
+      {
+        "url": "keebabHotDog.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "vegitarian-hotdog",
+    "section": "sausage",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Vegitarian Hotdog"
+      },
+      {
+        "property": "CALORIES",
+        "value": "280"
+      },
+      {
+        "property": "TIME",
+        "value": "4-6"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Dolor sit amet consectetur adipiscing elit pellentesque. A condimentum vitae sapien pellentesque. Ante metus dictum at tempor commodo. A diam sollicitudin tempor id eu nisl nunc. Arcu dui vivamus arcu felis bibendum ut."
+      },
+      {
+        "property": "RATING",
+        "value": "3.7"
+      },
+      {
+        "property": "PRICE",
+        "value": "8.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "vegiterianHotDog.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "striped-hotdog",
+    "section": "sausage",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Striped Hotdog"
+      },
+      {
+        "property": "CALORIES",
+        "value": "400"
+      },
+      {
+        "property": "TIME",
+        "value": "1-3"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Iaculis eu non diam phasellus. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. Neque laoreet suspendisse interdum consectetur libero id. "
+      },
+      {
+        "property": "RATING",
+        "value": "4"
+      },
+      {
+        "property": "PRICE",
+        "value": "11.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "frenchHotDog.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "bavarian-hotdog",
+    "section": "sausage",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Bavarian Hotdog"
+      },
+      {
+        "property": "CALORIES",
+        "value": "465"
+      },
+      {
+        "property": "TIME",
+        "value": "2-5"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Suscipit adipiscing bibendum est ultricies integer. Eu non diam phasellus vestibulum"
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "9.60"
+      }
+    ],
+    "image": [
+      {
+        "url": "bavarianHotdog.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "french-hotdog",
+    "section": "sausage",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "French Hotdog"
+      },
+      {
+        "property": "CALORIES",
+        "value": "380"
+      },
+      {
+        "property": "TIME",
+        "value": "3-4"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Tellus in metus vulputate eu scelerisque felis. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Integer quis auctor elit sed vulputate mi sit."
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "12.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "frenchHotDog.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "bacon-hotdog",
+    "section": "sausage",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Bacon Hotdog"
+      },
+      {
+        "property": "CALORIES",
+        "value": "500"
+      },
+      {
+        "property": "TIME",
+        "value": "3-7"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Sit amet justo donec enim diam. Placerat duis ultricies lacus sed. Arcu dictum varius duis at consectetur. Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque."
+      },
+      {
+        "property": "RATING",
+        "value": "4.6"
+      },
+      {
+        "property": "PRICE",
+        "value": "7.50"
+      }
+    ],
+    "image": [
+      {
+        "url": "bavarianHotdog.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "classic-samosa",
+    "section": "samosa",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Classic Samosa"
+      },
+      {
+        "property": "CALORIES",
+        "value": "342"
+      },
+      {
+        "property": "TIME",
+        "value": "3-7"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Faucibus purus in massa tempor nec feugiat nisl pretium. Cursus turpis massa tincidunt dui ut."
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "5.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "classicSamosa.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "chicken-samosa",
+    "section": "samosa",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Chicken Samosa"
+      },
+      {
+        "property": "CALORIES",
+        "value": "300"
+      },
+      {
+        "property": "TIME",
+        "value": "2-6"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Dolor magna eget est lorem ipsum dolor sit amet consectetur. Id diam vel quam elementum pulvinar etiam non."
+      },
+      {
+        "property": "RATING",
+        "value": "4.6"
+      },
+      {
+        "property": "PRICE",
+        "value": "4.70"
+      }
+    ],
+    "image": [
+      {
+        "url": "chickenSamosa.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "potato-samosa",
+    "section": "samosa",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Potato Samosa"
+      },
+      {
+        "property": "CALORIES",
+        "value": "415"
+      },
+      {
+        "property": "TIME",
+        "value": "3-8"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Est ultricies integer quis auctor elit sed vulputate mi sit. Nunc lobortis mattis aliquam faucibus purus in massa tempor. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. "
+      },
+      {
+        "property": "RATING",
+        "value": "4"
+      },
+      {
+        "property": "PRICE",
+        "value": "5.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "potatoSamosa.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  },
+  {
+    "slug": "salad-samosa",
+    "section": "samosa",
+    "property": [
+      {
+        "property": "NAME",
+        "value": "Salad Samosa"
+      },
+      {
+        "property": "CALORIES",
+        "value": "370"
+      },
+      {
+        "property": "TIME",
+        "value": "5-9"
+      },
+      {
+        "property": "DESCRIPTION",
+        "value": "Aenean euismod elementum nisi quis eleifend quam adipiscing. Amet cursus sit amet dictum sit amet. Id leo in vitae turpis massa sed elementum tempus egestas. "
+      },
+      {
+        "property": "RATING",
+        "value": "5"
+      },
+      {
+        "property": "PRICE",
+        "value": "8.99"
+      }
+    ],
+    "image": [
+      {
+        "url": "saladSamosa.png",
+        "image": "PRODUCT_DETAIL"
+      }
+    ]
+  }
+]

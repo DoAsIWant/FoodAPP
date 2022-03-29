@@ -1,0 +1,136 @@
+
+
+.content{
+    overflow: auto;
+    width:100%;
+    background: #f8f8ff;
+    position:fixed;
+    z-index:1;
+    padding: 76px 0;
+    height:100vh
+}
+
+.button__wrapper{
+    flex: 0 0.1 167px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.button__inner{
+    align-items: center;
+    justify-content: center;
+}
+
+
+.content::-webkit-scrollbar{width:0px}
+
+/*2 section*/
+
+.section {
+
+}
+
+.container {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-around;
+}
+
+.card__container{
+    width:100%;
+}
+.section__header {
+    font-family: "DM Sans Bold",serif;
+    font-size: 24px;
+    letter-spacing: -0.03em;
+    color: #3D3D3D;
+    flex: 0.5 0 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 15px 21px;
+}
+
+
+
+
+@media screen and (max-width: 374px){
+    .header{
+        padding: 14px 21px 0;
+    }
+
+    .header_container .menu_button{
+        width: 34px;
+        height: 34px;
+        padding: 4px 0;
+    }
+
+    .header_container .menu_description a {
+        font-size: 14px;
+        line-height: 19px;
+    }
+
+    .header_container .menu_description p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .header_container .menu_user {
+        width: 36px;
+        height: 36px;
+    }
+
+    .menu_button img{
+        width: 10px;
+        height: 30px;
+    }
+
+    .section__header{
+        padding: 24px 21px 10px;
+    }
+
+}
+
+
+@media screen and (min-width: 768px){
+
+    .container {
+        max-width: 817px;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+
+    .section__header {
+        font-size: 35px;
+        padding: 0 97px;
+    }
+
+}
+
+@media screen and (min-width: 1024px){
+
+    .container {
+        width: 100%;
+        align-items: center;
+        max-width: 2500px;
+    }
+    .section__header {
+        flex: 0.4 3 62px;
+        justify-content: center;
+    }
+
+    .button__wrapper{
+        flex: 0 0 189px;
+    }
+
+}
+
+
+
+

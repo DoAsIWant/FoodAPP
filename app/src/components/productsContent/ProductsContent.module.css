@@ -1,0 +1,170 @@
+
+.example_container {
+    box-sizing: border-box;
+    padding: 0 60px 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1.8 0 204px;
+}
+
+.product_example {
+    display: inline-block;
+    background: #ffffff;
+    box-shadow: 0 20px 40px rgba(2, 32, 44, 0.05);
+    border-radius: 20px;
+    padding: 28px 15px 46px 15px;
+}
+
+.product_example__wrapp{
+    width:229px;
+    height: 150px;
+}
+
+.product_example img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
+.product_counter {
+    font-family: "Sk-Modernist", sans-serif;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 14px;
+    background: linear-gradient(108.73deg, #F9881F 23.73%, #FF774C 79.34%);
+    border-radius: 25px;
+    max-width: 100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.product_counter button {
+    background: transparent;
+    border-color: transparent;
+    width: 90px;
+    font-family: "Sk-Modernist", sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 14px;
+    height: 50px;
+    cursor: pointer;
+}
+
+#minus {
+    border-color: transparent;
+    border-right: none;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+ #plus {
+    border-color: transparent;
+    border-right: none;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.products .product_counter .counter_number {
+    text-align: center;
+    width: 33px;
+    height: 20px;
+    line-height: 20px;
+}
+
+.counter_container {
+    flex: 0.4 5 64px;
+    flex-direction: column;
+    display: flex;
+}
+
+
+.example_container {
+    box-sizing: border-box;
+}
+
+
+@media screen and (max-width: 374px) {
+    .example_container{
+        padding: 0 73px 0;
+    }
+    .header {
+        padding: 15px 31px;
+    }
+    .product_counter {
+        height: 40px;
+        width: 80px;
+    }
+}
+
+@media screen and (max-width: 359px){
+    .counter_container {
+        justify-content: center;
+    }
+
+    .example_container {
+        padding: 36px 66px 9px;
+        max-width: 485px;
+    }
+
+    .example_container {
+        padding: 0 70px 9px;
+        max-width: 485px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+
+    .product_example__wrapp{
+        width: 100%;
+    }
+
+    .counter_container {
+        flex: 0 5 22%;
+        padding: 0 0 18px;
+        justify-content: center;
+    }
+
+    .example_container {
+        flex: 0.7 0 37%;
+        padding: 20px 120px;
+    }
+
+    .product_example {
+        width: 100%;
+        max-width: 600px;
+    }
+
+    .counter_container {
+        flex: 0 5 22%;
+    }
+
+    .product_counter {
+        font-size: 28px;
+        border-radius: 50px;
+        height: 60px;
+        max-width: 140px;
+    }
+
+    .product_counter button {
+        font-size: 30px;
+    }
+
+     #minus {
+        border-top-left-radius: 50px;
+        border-bottom-left-radius: 50px;
+    }
+
+    #plus {
+        border-top-right-radius: 50px;
+        border-bottom-right-radius: 50px;
+    }
+}
+
+
+
+
+

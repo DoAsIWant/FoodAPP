@@ -1,0 +1,132 @@
+.success__content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    position: fixed;
+    z-index: 1000;
+    background: #f8f8ff;
+    width:100%;
+}
+
+.success__button{
+    align-self: flex-start;
+    padding: 48px 28px 0;
+    cursor:pointer;
+}
+
+.success__message {
+    flex: 1 0 359px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0 90px;
+}
+
+.message__img{
+    padding: 0 0 25px;
+}
+.message__header{
+    font-family: "DM Sans Bold",serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: -0.03em;
+    max-width: 252px;
+    text-align: center;
+    padding: 0 0 15px;
+}
+.message__text{
+    font-family: "DM Sans", serif;
+    font-size: 15px;
+    line-height: 23px;
+    letter-spacing: -0.01em;
+    max-width: 290px;
+    text-align: center;
+}
+
+.proceed__container{
+    flex: 0 0 84px;
+}
+
+
+.button__caption{
+    font-family: "Sk-Modernist",serif;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    text-align: center;
+    color: #FFFFFF;
+    height: 51px;
+    box-sizing: border-box;
+    padding: 15px 0;
+    border-radius: 20px;
+    background: linear-gradient(108.73deg, #F9881F 23.73%, #FF774C 79.34%);
+}
+
+
+@media screen and (min-width: 768px){
+    .success__message {
+        flex: 1 0 359px;
+        padding: 0 0 54px;
+        width: 100%;
+    }
+
+    .message__img {
+        padding: 5px 0 53px;
+    }
+
+    .message__header {
+        font-size: 29px;
+        line-height: 31px;
+        max-width: 429px;
+        width: 100%;
+        padding: 0 0 22px;
+    }
+
+    .message__text {
+        max-width: 380px;
+        font-size: 20px;
+        text-align: center;
+        line-height: 28px;
+    }
+
+    .proceed__container {
+        flex: 0 0 120px;
+    }
+
+    .proceed__button {
+        height: 64px;
+        padding: 20px 0;
+    }
+
+    .button__caption {
+        font-size: 17px;
+        line-height: 21px;
+    }
+
+    .proceed__container{
+        flex:0 0 120px;
+    }
+}
+
+@media screen and (max-width: 360px){
+    .message__img img{
+        width:172px;
+        height:160px;
+    }
+
+    .success__message{
+        padding: 0 0 80px;
+    }
+
+   .proceed__container{
+       flex: 0 0 80px;
+   }
+}
+
+
+
+

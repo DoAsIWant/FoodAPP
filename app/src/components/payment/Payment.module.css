@@ -1,0 +1,203 @@
+.payment__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    flex-grow: 1;
+    justify-content: space-between;
+}
+
+.proceed__container {
+    cursor: pointer;
+    flex: 0 0 53px;
+    padding: 0 20px;
+}
+
+
+.payment__button{
+    cursor: pointer;
+}
+
+.pay__header{
+    padding: 48px 24px 50px;
+    font-family: "DM Sans Bold", serif;
+    letter-spacing: -0.03em;
+    font-size: 24px;
+}
+
+.input__active{
+  background: red;
+}
+
+.card__details input {
+    height: 50px;
+    width: 334px;
+    border-radius: 15px;
+    border: 1px solid #DFE2E5;
+    padding: 0 20px 0 23px;
+    margin-top: -1px;
+    box-sizing: border-box;
+    font-family: "Sk-Modernist", serif;
+    font-size: 14px;
+    line-height: 19px;
+    color: #AAACAE;
+}
+
+.card__details label {
+    font-family: "Sk-Modernist", serif;
+    font-size: 12px;
+    line-height: 16px;
+    color: #3D3D3D;
+    padding: 0 0 10px 23px;
+}
+
+.card__data__container {
+    padding: 6px 21px 0;
+}
+
+.card__month{
+    display: flex;
+    flex-direction: column;
+}
+
+.card__cv{
+    display: flex;
+    flex-direction: column;
+}
+
+.card__data {
+    padding: 20px 0;
+    display: flex;
+    width: 100%;
+    max-width: 334px;
+    justify-content: space-between;
+}
+
+
+.card__data input {
+    width: 157px;
+    height: 50px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    border: 1px solid #DFE2E5;
+    padding: 0 11px 0;
+    font-family: "Sk-Modernist", serif;
+    font-size: 14px;
+    line-height: 19px;
+    color: #AAACAE;
+}
+
+.card__details{
+    display:flex;
+    flex-direction: column;
+}
+
+.card__data{
+    max-width: 350px;
+}
+
+.card__data label {
+    font-family: "Sk-Modernist", serif;
+    font-size: 12px;
+    line-height: 16px;
+    color: #3D3D3D;
+    padding: 0px 0 10px 11px;
+}
+
+.proceed__container {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+
+.payment__data {
+    flex: 0.9 0 373px;
+}
+
+@media screen and (max-width: 360px){
+
+
+    .card__data{
+        max-width: 280px;
+    }
+
+    .card__data input{
+        width: 130px;
+    }
+
+    .card__details input{
+        width:280px;
+    }
+
+    .proceed__container{
+        flex: 0.1 0 59px;
+        padding: 0 20px
+    }
+
+}
+@media screen and (min-width: 768px){
+
+    .payment__content {
+        align-items: center;
+    }
+
+    .payment__data {
+        flex: 1 1 499px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .menu__button {
+        padding: 40px 26px 0px;
+        align-self: flex-start;
+        flex: 0.2 0 101px;
+    }
+
+    .pay__header {
+        padding: 48px 24px 50px;
+        font-size: 29px;
+        flex: 0.2 0 50px;
+    }
+
+    .card__data__container {
+        padding: 9px 23px 0;
+        width: 100%;
+        max-width: 461px;
+        display: flex;
+        flex: 1 1 284px;
+        flex-direction: column;
+    }
+
+
+    .proceed__container {
+        flex: 0 0 125px;
+        padding: 0px 21px 0px;
+    }
+
+    .proceed__button {
+        height: 64px;
+        padding: 17px 0;
+    }
+
+
+
+    .card__data {
+        max-width: 511px;
+    }
+
+    .card__data input {
+        width: 190px;
+        height: 70px;
+        font-size: 16px;
+    }
+
+    .card__details input{
+        width:420px;
+        height: 70px;
+        font-size:16px;
+    }
+}

@@ -1,0 +1,51 @@
+.name_icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 217px;
+    margin: 0 auto;
+    width: 100%;
+    flex: 0.3 1 31px;
+}
+
+.icon__group {
+    font-family: "Sk-Modernist", serif;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+}
+
+.icon__group span {
+    margin-left: 5px;
+    line-height: 1px;
+    letter-spacing: 0.03em;
+    font-size: 11px;
+}
+
+
+@media screen and (max-width: 359px){
+    .name_icons {
+        max-width: 217px;
+        padding: 0 0 7px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .name_icons {
+        max-width: 307px;
+        flex: 0.2 0 40px;
+        padding: 5px 9px 10px;
+    }
+
+    .icon__group img {
+        width: 17px;
+        height: 17px;
+    }
+
+    .icon__group span {
+        margin-left: 7px;
+        line-height: 1px;
+        letter-spacing: 0.03em;
+        font-size: 17px;
+    }
+}

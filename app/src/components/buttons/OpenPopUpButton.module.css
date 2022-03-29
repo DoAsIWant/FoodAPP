@@ -1,0 +1,37 @@
+.button__caption{
+    font-family: "Sk-Modernist",serif;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    text-align: center;
+    width:335px;
+    height: 51px;
+    box-sizing: border-box;
+    padding: 15px 0;
+    border-radius: 20px;
+    background: linear-gradient(108.73deg, #F9881F 23.73%, #FF774C 79.34%);
+    color: #FFFFFF;
+}
+
+.caption__text{
+    cursor:pointer;
+    color:#FFFFFF;
+}
+
+@media screen and (max-width:374px){
+    .button__caption {
+        width: 315px;
+    }
+}
+
+@media screen and (max-width: 359px){
+    .button__caption {
+        width: 290px;
+    }
+}
+@media screen and (min-width: 768px){
+    .button__caption{
+        width:370px;
+    }
+}
+

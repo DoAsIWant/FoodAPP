@@ -1,0 +1,10 @@
+.popup__content{
+    position: fixed;
+    z-index: 999;
+    background: #F8FBFF;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}

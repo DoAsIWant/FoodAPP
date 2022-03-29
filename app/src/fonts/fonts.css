@@ -1,0 +1,31 @@
+
+@font-face {
+    font-family: "DM Sans";
+    src: url("./DMSans-Regular.ttf");
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Sk-Modernist";
+    src: url("./Sk-Modernist-Regular.otf");
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "DM Sans Bold";
+    src: url("./DMSans-Bold.ttf");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "DM Sans Medium";
+    src: url("./DMSans-Medium.ttf");
+    font-style: normal;
+    font-weight: 500;
+}
+
+
+
+
+

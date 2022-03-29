@@ -1,0 +1,17 @@
+
+.menu__button {
+    padding: 48px 24px 18px;
+    z-index: 9999;
+
+}
+
+.popup__button{
+    cursor: pointer;
+}
+
+
+@media screen and (min-width:320px) and (max-width: 359px){
+    .menu__button{
+        padding: 18px 24px 18px;
+    }
+}

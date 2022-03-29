@@ -1,0 +1,43 @@
+version: "2.2"
+
+services:
+  mongo:
+    image: mongo:4.4.9
+    container_name: food-mongo
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data/mongo:/data/db
+      - ./init:/docker-entrypoint-initdb.d
+
+  offer:
+    image: wi4er/groot:0.3.3
+    container_name: food-offer
+    environment:
+      DB_HOST: mongo
+      DB_USER: offer
+      DB_PASSWORD: example
+      DB_NAME: offer
+    links:
+      - mongo
+    ports:
+      - "8081:8080"
+
+  files:
+    image: wi4er/knox:0.1.1
+    container_name: food-files
+    environment:
+      DB_HOST: mongo
+      DB_USER: file
+      DB_PASSWORD: example
+      DB_NAME: file
+      STORAGE_PATH: /app/storage
+    links:
+      - mongo
+    ports:
+      - "8082:8080"
+    volumes:
+      - ./data/storage:/app/storage

@@ -1,0 +1,67 @@
+
+.total__container {
+    width: 100%;
+    flex: 0 0 14%;
+    padding: 0 0 5px 0;
+    display: flex;
+    align-items: center;
+}
+
+.total{
+    display: flex;
+    width: 100%;
+    max-width: 320px;
+    justify-content: space-between;
+    font-family: "DM Sans",serif;
+    margin: 0 auto;
+    padding: 0 22px 0 14px;
+}
+
+.total__price{
+    font-size: 24px;
+    font-family: "DM Sans Bold",serif;
+    line-height: 35px;
+    letter-spacing: 0.01em;
+}
+.total_caption{
+    line-height: 35px;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+
+}
+
+
+@media screen and (max-width: 374px){
+    .total__price {
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .total{
+        max-width: 300px
+    }
+}
+
+@media screen and (min-width: 768px){
+
+    .total{
+        max-width: 400px;
+    }
+    .total_caption{
+        line-height: 35px;
+        font-size: 21px;
+    }
+
+    .total__price{
+        font-size: 36px;
+        font-family: "DM Sans Bold",serif;
+        line-height: 35px;
+        letter-spacing: 0.01em;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .total__container {
+        flex: 0 0 155px;
+        align-items: center;
+    }
+}
